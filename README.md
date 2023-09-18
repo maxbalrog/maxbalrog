@@ -1,4 +1,11 @@
-### Hi there 👋
+Hi, I'm @maxbalrog
+
+- 👀 I'm interested in physics simulations, neural networks and high-performance computation
+- 🌱 I’m currently learning Bayesian Inference and Quantum Field Theory
+
+Research papers:
+- [Narrow bandwidth gamma comb from nonlinear Compton scattering using the polarization gating technique](https://arxiv.org/abs/2011.12931)
+- [Towards high photon density for Compton Scattering by spectral chirp](https://arxiv.org/abs/2204.12245)
 
 <!--
 **maxbalrog/maxbalrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
